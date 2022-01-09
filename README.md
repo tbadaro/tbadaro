@@ -14,8 +14,6 @@
   <img align="center" alt="Tad-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Tad-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Tad-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Tad-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/tbadaro/icons/6b0e279ff6772b395b57f1e5d8f80c3c3894f95c/file_type_cypress_icon_130654.svg?token=ALWTYUWDXDGBFIMJZTMGF5LB3M3TO">
-  <img align="center" alt="Tad-Robot" height="30" width="30" src="https://raw.githubusercontent.com/tbadaro/icons/6b0e279ff6772b395b57f1e5d8f80c3c3894f95c/robotframework_icon_132027.svg?token=ALWTYUUIZ2IQBCGXGQM5MNTB3M3WA">
 </div>
   
   ##
