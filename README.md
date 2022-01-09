@@ -1,7 +1,7 @@
 ### Olá! Eu sou Tadeu Badaró, engenheiro de qualidade de software em treinamento. 👋
 
 
-- 🌱 Atualmente aprendendo Engenharia de Qualidade de Software / Currently learning software quality engineering 
+- 🌱 Atualmente aprendendo Cypress Framework / Currently learning Cypress Framework 
 - 📫 Como me contactar / How to reach me: t.badaro@gmail.com
 
 <div align="center">
